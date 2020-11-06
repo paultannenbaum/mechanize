@@ -24,7 +24,7 @@ The package can be installed by adding `mechanize` to your list of dependencies 
 ```elixir
 def deps do
   [
-    {:mechanize, , "~> 0.1"}
+    {:mechanize, "~> 0.1"}
   ]
 end
 ```
